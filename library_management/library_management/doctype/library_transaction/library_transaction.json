@@ -1,6 +1,6 @@
 {
  "autoname": "LTRN.#######", 
- "creation": "2014-05-06 14:34:41.241500", 
+ "creation": "2022-03-21 14:34:41.241500", 
  "docstatus": 0, 
  "doctype": "DocType", 
  "document_type": "Transaction", 
@@ -57,7 +57,7 @@
    "read_only": 1
   }
  ], 
- "modified": "2014-05-10 15:07:12.563492", 
+ "modified": "2022-03-21 15:07:12.563492", 
  "modified_by": "Administrator", 
  "module": "Library Management", 
  "name": "Library Transaction", 
